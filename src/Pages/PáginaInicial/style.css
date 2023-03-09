@@ -268,7 +268,7 @@ body::-webkit-scrollbar-thumb {
     margin-right: 90px;
     background-color: #1c132e;
     border-radius: 20px;
-    background-image: url(/src/assets/1083940.jpg);
+    background-image: url(src/assets/1083940.jpg);
     background-size: 700px 400px;
     background-position: 420;
     -webkit-transition: -webkit-transform .10s ease;
@@ -284,7 +284,7 @@ body::-webkit-scrollbar-thumb {
     margin-right: 90px;
     background-color: #1c132e;
     border-radius: 20px;
-    background-image: url(/src/assets/capa_nebulosas.jpg);
+    background-image: url(src/assets/capa_nebulosas.jpg);
     background-size: 600px 400px;
     background-position: 440;
     -webkit-transition: -webkit-transform .10s ease;
@@ -299,7 +299,7 @@ body::-webkit-scrollbar-thumb {
     margin: auto;
     background-color: #1c132e;
     border-radius: 20px;
-    background-image: url(/src/assets/james-webb-telescope-001.jpg);
+    background-image: url(src/assets/james-webb-telescope-001.jpg);
     background-size: 600px 400px;
     background-position: 455;
     -webkit-transition: -webkit-transform .10s ease;
